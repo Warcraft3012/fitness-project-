@@ -1,0 +1,94 @@
+title,description,difficulty,equipment,body_part
+Jumping Jacks,Perform jumping jacks for 1 minute.,Easy,None,legs
+Wall Sit,Hold a wall sit position for 30 seconds.,Easy,None,legs
+Knee Push Ups,Perform knee push ups for 10 reps.,Easy,None,chest
+Bodyweight Squats,Perform 15 bodyweight squats.,Easy,None,legs
+Standing Toe Touches,"Touch your toes while standing, repeat 10 times.",Easy,None,legs
+Arm Circles,Perform arm circles for 1 minute.,Easy,None,arms
+Seated Leg Raises,"Raise one leg while seated, 10 times each leg.",Easy,None,legs
+Calf Raises,Perform 20 calf raises.,Easy,None,legs
+Marching in Place,March in place for 2 minutes.,Easy,None,legs
+Step Touch,"Step to the side and touch, 20 times.",Easy,None,legs
+Side Leg Lifts,"Lift your leg to the side, 15 times each leg.",Easy,None,legs
+Standing Hip Circles,"Rotate hips in a circle, 1 minute.",Easy,None,core
+Wall Push Ups,"Perform push ups against a wall, 10 reps.",Easy,None,chest
+Cat-Cow Stretch,Perform cat-cow stretch for 2 minutes.,Easy,None,back
+Glute Bridges,Perform 15 glute bridges.,Easy,None,glutes
+Toe Taps,Tap toes to a step 20 times.,Easy,None,legs
+Arm Raises,"Raise arms up and down, 20 times.",Easy,None,shoulder
+Seated March,March while seated for 2 minutes.,Easy,None,legs
+Standing Calf Stretch,Stretch calves for 30 seconds each leg.,Easy,None,legs
+Neck Rolls,"Roll neck gently in circles, 1 minute.",Easy,None,neck
+Barbell Deadlift,"Perform barbell deadlifts with proper form, 8 reps.",Hard,Barbell,back
+Weighted Pull Ups,Do 10 pull ups with added weight.,Hard,"Pull Up Bar,Weights",back
+Pistol Squats,"Perform pistol squats, 8 reps each leg.",Hard,None,legs
+Muscle Ups,Perform 5 muscle ups on bars.,Hard,Pull Up Bar,back
+One Arm Push Ups,Perform 10 one arm push ups.,Hard,None,chest
+Weighted Lunges,"Perform weighted lunges, 12 reps each leg.",Hard,Dumbbells,legs
+Barbell Squats,"Perform barbell squats, 10 reps.",Hard,Barbell,legs
+Handstand Hold,Hold a handstand for 30 seconds.,Hard,None,shoulder
+Kettlebell Swings,"Perform kettlebell swings, 20 reps.",Hard,Kettlebell,core
+Box Jumps,"Jump onto a box, 15 reps.",Hard,Box,legs
+Burpees,Perform 20 burpees.,Hard,None,full body
+Clap Push Ups,Perform 15 clap push ups.,Hard,None,chest
+Sled Push,Push a sled with weight for 20 meters.,Hard,Sled,legs
+Weighted Step Ups,"Perform weighted step ups, 15 reps each leg.",Hard,"Dumbbells,Box",legs
+Battle Ropes,Use battle ropes for 1 minute.,Hard,Battle Ropes,arms
+Ring Dips,"Perform ring dips, 12 reps.",Hard,Gymnastic Rings,chest
+Tire Flips,Flip a large tire 10 times.,Hard,Tire,full body
+Sprints,"Sprint for 100 meters, 5 reps.",Hard,None,legs
+Front Lever Hold,Hold front lever position for 15 seconds.,Hard,Pull Up Bar,core
+Muscle-Up Negatives,"Perform slow lowering of muscle-ups, 8 reps.",Hard,Pull Up Bar,back
+Weighted Plank,"Hold a plank with added weight for 30 seconds.",Hard,None,core
+Handstand Push Ups,"Perform handstand push ups against a wall, 8 reps.",Hard,None,shoulder
+Bulgarian Split Squats,Perform Bulgarian split squats for 10 reps each leg.,Hard,Bench,legs
+Diamond Push Ups,Perform 15 diamond push ups.,Medium,None,chest
+Russian Twists,"Twist torso side to side while seated, 20 reps each side.",Medium,None,core
+Goblet Squats,"Hold a dumbbell at chest and squat, 15 reps.",Medium,Dumbbell,legs
+Mountain Climbers,"Perform mountain climbers for 1 minute.",Medium,None,core
+Walking Lunges,"Step forward lunging, 20 reps each leg.",Medium,None,legs
+Triceps Dips,"Dip body between two chairs, 15 reps.",Medium,Chair,arms
+Superman Hold,"Lie face down and lift arms/legs, hold 30 seconds.",Easy,None,back
+Plank Shoulder Taps,"Tap alternate shoulders in plank, 20 reps.",Medium,None,core
+Reverse Crunches,"Lift hips upward, 20 reps.",Easy,None,core
+Resistance Band Row,"Pull resistance band to chest, 15 reps.",Medium,Resistance Band,back
+Seated Shoulder Press,"Press dumbbells overhead, 12 reps.",Medium,Dumbbells,shoulder
+Incline Push Ups,"Push ups with hands on bench, 15 reps.",Easy,Bench,chest
+Decline Push Ups,"Push ups with feet on bench, 12 reps.",Medium,Bench,chest
+Crunches,"Lie on back and crunch up, 20 reps.",Easy,None,core
+Lateral Band Walks,"Step sideways with resistance band, 15 each side.",Medium,Resistance Band,legs
+Jump Squats,"Do squats while jumping up explosively, 15 reps.",Hard,None,legs
+Incline Dumbbell Curl,"Bicep curl on incline bench, 15 reps.",Medium,Dumbbells,arms
+Bench Dips,"Dip off bench, 15 reps.",Medium,Bench,arms
+Toe Touch Jumps,"Jump and touch toes, 20 reps.",Easy,None,legs
+Hip Thrusts,"Lift hips with back on bench, 15 reps.",Medium,Bench,glutes
+Half Burpees,"Jump back and stand up, 20 reps.",Medium,None,full body
+Chest Fly,"Open dumbbells out lying on bench, 12 reps.",Medium,Dumbbells,chest
+Skater Hops,"Hop side to side, 20 reps.",Medium,None,legs
+Bear Crawl,"Crawl forward and back for 1 minute.",Medium,None,core
+Side Plank,"Hold side plank each side for 30 seconds.",Medium,None,core
+Donkey Kicks,"On all fours, kick leg upward, 15 each leg.",Easy,None,glutes
+Stationary Bike Sprints,"Sprint on stationary bike, 1 min.",Hard,Bike,legs
+Box Push Ups,"Push ups with hands on box, 15 reps.",Medium,Box,chest
+Raised Leg Crunch,"Crunch with legs raised to 90 degrees, 15 reps.",Easy,None,core
+Cable Rows,"Row using cable machine, 15 reps.",Hard,Cable Machine,back
+Sled Drag,"Drag weighted sled for 20 meters.",Hard,Sled,legs
+Ankle Taps,"Tap opposite ankles from plank, 20 reps.",Easy,None,core
+Reverse Lunges,"Step backward lunging, 12 each leg.",Medium,None,legs
+Standing Resistance Curl,"Standing bicep curl with resistance band, 15 reps.",Easy,Resistance Band,arms
+Tripod Push Ups,"Push up with one leg raised, 10 reps each.",Hard,None,chest
+Back Extensions,"Extend spine on bench, 15 reps.",Medium,Bench,back
+Tuck Jumps,"Jump and bring knees to chest, 15 reps.",Hard,None,legs
+Side Shuffle,"Fast side steps for 1 minute.",Easy,None,legs
+Sumo Squat,"Wide-stance squat for 15 reps.",Medium,None,legs
+Farmer’s Walk,"Carry heavy weights, walk 30 meters.",Hard,Dumbbells,full body
+Heel Raises,"Raise heel standing on one leg, 15 each.",Easy,None,legs
+Oblique Crunch,"Crunch knee to elbow, 15 each side.",Easy,None,core
+Weighted Sit Ups,"Sit ups holding a weight, 12 reps.",Medium,Weight Plate,core
+Dumbbell Pullover,"Lie on bench, dumbbell overhead pull, 12 reps.",Medium,Dumbbell,chest
+Jump Rope,"Skip rope fast for 2 minutes.",Medium,Jump Rope,full body
+Wrist Curls,"Seated curl wrist with dumbbells, 20 reps.",Easy,Dumbbells,arms
+Kettlebell Deadlift,"Deadlift with kettlebell, 12 reps.",Medium,Kettlebell,legs
+Palms-In Pull Ups,"Pull up with palms facing in, 8 reps.",Hard,Pull Up Bar,back
+Box Sit Ups,"Sit ups sitting on or against box, 20 reps.",Easy,Box,core
+

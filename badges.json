@@ -1,0 +1,4 @@
+[
+  {"name": "10 Workouts", "description": "Complete 10 unique challenges", "requirements": ["10_workouts"], "category": "milestone"},
+  {"name": "Streak Week", "description": "Complete challenges 7 days in a row", "requirements": ["7_day_streak"], "category": "streak"}
+]

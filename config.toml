@@ -1,0 +1,7 @@
+[theme]
+base="auto"  # Allows user to switch between light and dark
+primaryColor="#00c0ff"
+backgroundColor="#ffffff"  # Light mode background
+secondaryBackgroundColor="#f0f2f6"
+textColor="#222222"
+font="sans serif"
